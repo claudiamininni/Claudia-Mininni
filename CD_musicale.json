@@ -1,0 +1,28 @@
+{
+	"CD_musicale":{
+		"titolo":"Album",
+		"casa discografica":"BobaDischi",
+		"Artisti":["Lodo","Raffo","Piera"],
+		"Genere":"casuale",
+		"canzoni":[
+			{
+				"traccia":1,
+				"titolo":"La notte",
+				"durata":"4.12 min"
+			},
+			{
+				"traccia":2,
+				"titolo":"Il giorno",
+				"durata":"5.23"
+			},
+
+			{
+				"traccia":3,
+				"titolo":"Il pomeriggio",
+				"durata":"2:23"
+			}
+			],
+
+		"prezzo":"3,50$"
+	}
+}
