@@ -1,5 +1,5 @@
-[
-	{
+{
+	"Rubrica_1":	{
 		"first_name":"Vitaliia",
 		"last_name":"Stavytska",
 		"mobile_phone":"380-5666882",
@@ -11,7 +11,8 @@
 		"favorite_colours":["verde","giallo","blu"]
 		},
 
-		{"first_name":"Sandy",
+	"Rubrica_2":{
+		"first_name":"Sandy",
 		"last_name":"Camargo",
 		"mobile_phone":"380-5555444",
 		"email":"sandy.cama@gmail.com",
@@ -20,7 +21,8 @@
 		"addres":"Via Melo 14",
 		"job":"Professoressa",
 		"favorite_colours":["rosso","rosa","arancione"]
-	}
-]
+		}
+
+}
 
 
