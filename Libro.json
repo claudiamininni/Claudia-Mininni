@@ -1,0 +1,9 @@
+{
+	"libro":{
+		"Titolo":"patente nautica",
+		"Capitoli":["1_Teoria dello scafo","2_Cartografia","3_Carteggio"],
+		"Autore":{
+			"name":"Miriam",
+			"indirizzo":"Via Feltrinelli,18"}
+			}
+}
