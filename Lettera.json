@@ -1,0 +1,26 @@
+{
+  "Intestazione":
+      {
+        "mittente": {
+            "nome": "Claudia",
+            "cognome": "Mininni",
+            "indirizzo": "Via Maione 17",
+            "citta": "Bari",
+            "provincia":"BA",
+            "cap":"70128"
+            },
+         "destinatario":{
+          "nome": "Greta",
+            "cognome": "Dotto",
+            "indirizzo": "Via Lucarelli 17",
+            "citta": "Ancona",
+            "provincia":"AN",
+            "cap":"50628"
+            },
+         "Oggetto":"Richiesta informazioni"
+      },
+      
+  "corpo del testo":"Gentile Greta, le scrivo in merito alla domanda per la candidatura.",
+  "saluti": ["Cordiali saluti","Firma"]
+  
+}
