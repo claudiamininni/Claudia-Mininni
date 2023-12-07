@@ -1,0 +1,26 @@
+[
+	{
+		"first_name":"Vitaliia",
+		"last_name":"Stavytska",
+		"mobile_phone":"380-5666882",
+		"email":"vita.stav@gmai.com",
+		"b_day":"10/11/1992",
+		"web_site":"www.vita.it",
+		"addres":"Via Covur 6",
+		"job":"Ingeniere",
+		"favorite_colours":["verde","giallo","blu"]
+		},
+
+		{"first_name":"Sandy",
+		"last_name":"Camargo",
+		"mobile_phone":"380-5555444",
+		"email":"sandy.cama@gmail.com",
+		"b_day":"09/02/1998",
+		"web_site":"ww.sandy.it",
+		"addres":"Via Melo 14",
+		"job":"Professoressa",
+		"favorite_colours":["rosso","rosa","arancione"]
+	}
+]
+
+
